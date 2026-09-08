@@ -1,0 +1,7 @@
+interface:
+  display_name: "真人写实视频提示词"
+  short_description: "生成带连续表演、空间关系、粤语与分镜计时的真人视频提示词"
+  default_prompt: "Use $live-action-video-prompts to turn my character, scene, camera, action, dialogue, and timing notes into a copy-ready photoreal live-action video prompt."
+
+policy:
+  allow_implicit_invocation: true
