@@ -10,6 +10,10 @@
 ![Platform](https://img.shields.io/badge/platform-Claude%20%7C%20GPT-blue)
 ![Version](https://img.shields.io/badge/version-4.5-orange)
 
+## 🎞️ 作品案例
+
+[《种子》｜AI 真人短片](https://www.youtube.com/watch?v=EwfxIP1_ilE)：使用本 Skill 辅助设计视频提示词，获“大学生 AI 艺术季 × VIDU”48 小时限时创作二等奖。
+
 ## ✨ 核心特性
 
 - 🖼️ 参考图驱动：不复述图中主体、外貌、环境、光线或氛围
